@@ -1,2 +1,1 @@
-# First-website-by-raffaello
 This repo is an example of all the AI capabilities of raffaello.dev to create stunning websites, components and all kind of visual assets.
